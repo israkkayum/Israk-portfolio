@@ -14,6 +14,9 @@ h2{
 .flex-container{
     display: flex;
     padding-bottom: 150px;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-right: 3%;
 }
 .half-width{
     width: 50%;
@@ -42,11 +45,14 @@ h2{
 }
 
 .experience-item{
-    width: 40%;
-    margin-left: 5%;
-    margin-right: 5%;
+    width: 50%;
+    margin-left: 3%;
+    margin-right: 3%;
     box-shadow: 10px 10px 40px gray;
+    padding-top: 15px;
     padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
     border-radius: 10px;
     
 }
@@ -67,4 +73,7 @@ h2{
 }
 footer p{
     text-align: center;
+}
+h1.a{
+    margin-left: 6%;
 }
